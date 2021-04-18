@@ -72,3 +72,9 @@ Tendo isso em vista, o Owl Academy será um novo software para gerenciamento esc
  Para prototipação de telas e logotipo da aplicação, optamos pela ferramenta chamada Figma.
  Aqui está o link para acompanhar o progresso de esquematização das telas e funcionalidades: https://www.figma.com/file/Z9TAKM5D7kDnkmE2vab4cf/Owl-Academy?node-id=0%3A1
 </p>
+
+<h2>Product Backlog:</h2>
+
+<p>
+  Documento de requisitos, product backlog e estórias de usuário: https://docs.google.com/document/d/1RUI0wl0roAaTfJSr4V__vsWRMUwFKBchO9nNghimszY/edit?usp=sharing
+</p>
