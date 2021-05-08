@@ -78,3 +78,9 @@ Tendo isso em vista, o Owl Academy será um novo software para gerenciamento esc
 <p>
   Documento de requisitos, product backlog e estórias de usuário: https://docs.google.com/document/d/1RUI0wl0roAaTfJSr4V__vsWRMUwFKBchO9nNghimszY/edit?usp=sharing
 </p>
+
+<h2>Back-end:</h2>
+
+<p>
+   Link para o repositório do back-end da aplicação: https://github.com/SetCode-Ready/api-owl-academy
+</p>
