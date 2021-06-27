@@ -91,10 +91,10 @@ Tendo isso em vista, o Owl Academy será um novo software para gerenciamento esc
    Link retirado devido às chaves de acesso necessárias para deploy presentes no repositório.
 </p>
 
-<h2>Regras de negócio implementadas:</h2>
+<h2>Regras de negócio que serão implementadas:</h2>
 
 <ul>
   <li>Autenticação</li>
-  <li>Criação de chamada</li>
   <li>Upload/Download de documentos</li>
+  <li>Criação de turmas</li>
 </ul>
