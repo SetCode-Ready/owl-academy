@@ -95,6 +95,7 @@ Tendo isso em vista, o Owl Academy será um novo software para gerenciamento esc
 
 <ul>
   <li>Autenticação</li>
-  <li>Upload/Download de documentos</li>
-  <li>Criação de turmas/Inserção de alunos na turma</li>
+  <li>Criação de turmas</li>
+  <li>Inserção de alunos e professores na turma</li>
+  <li>Inserir nota para os alunos</li>
 </ul>
